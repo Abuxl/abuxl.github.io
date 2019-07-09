@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://abuxl.github.io/post/</link>
+    <link>https://abuxl.github.io/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2019 20:13:12 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 22:43:34 +0800</lastBuildDate>
     
-	<atom:link href="http://abuxl.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://abuxl.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>英语口语：“事不关己高高挂起”怎么说？</title>
+      <link>https://abuxl.github.io/post/learn/</link>
+      <pubDate>Mon, 08 Jul 2019 22:43:34 +0800</pubDate>
+      
+      <guid>https://abuxl.github.io/post/learn/</guid>
+      <description>1) 我们还是先让“英语阅读”先入为主：
+Former President Barack Obama is adding his voice to the Alabama Senate race, imploring voters to go to the polls Tuesday to reject the candidacy of Roy Moore as part of an aggressive effort by Democrats to try and counter President Donald Trump&#39;s full-throated endorsement of the controversial Republican candidate. &amp;quot;This one&#39;s serious,&amp;quot; Obama says in the call. &amp;quot;You can&#39;t sit it out.&amp;quot; Former President(前总统) Barack Obama is adding his voice(呐喊) to the Alabama Senate race(参议院议员竞选), imploring voters(恳请选民) to go to the polls(去投票站投票)Tuesday to reject the candidacy(投。。。竞选资格的反对票)of Roy Moore as part of an aggressive effort(强力反击) by Democrats(民主党) to try and counter(抗击)President Donald Trump&#39;s full-throated endorsement(不遗余力支持) of the controversial(有争议的) Republican candidate(共和党候选人).</description>
+    </item>
+    
+    <item>
       <title>第一个博客</title>
-      <link>http://abuxl.github.io/post/blog/</link>
+      <link>https://abuxl.github.io/post/blog/</link>
       <pubDate>Fri, 05 Jul 2019 20:13:12 +0800</pubDate>
       
-      <guid>http://abuxl.github.io/post/blog/</guid>
+      <guid>https://abuxl.github.io/post/blog/</guid>
       <description>第一个博客</description>
     </item>
     
